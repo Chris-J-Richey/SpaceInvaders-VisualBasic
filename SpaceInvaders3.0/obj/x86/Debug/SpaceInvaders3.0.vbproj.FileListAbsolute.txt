@@ -1,0 +1,32 @@
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.exe
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.pdb
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.xml
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3._0.frmMain.resources
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3._0.Resources.resources
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.exe
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.xml
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.pdb
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.exe
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.xml
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.pdb
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.exe
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.pdb
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.xml
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3._0.frmMain.resources
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3._0.Resources.resources
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.exe
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.xml
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.pdb
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.exe
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.pdb
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\bin\Debug\SpaceInvaders3.0.xml
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.vbprojResolveAssemblyReference.cache
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3._0.frmMain.resources
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3._0.Resources.resources
+C:\Users\break_000\Desktop\GITA 9th grade\SpaceInvaders3.0\SpaceInvaders3.0\obj\x86\Debug\SpaceInvaders3.0.vbproj.GenerateResource.Cache
